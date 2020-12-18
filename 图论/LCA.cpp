@@ -1,5 +1,4 @@
 int fa[MN][30],lgb[MN],depth[MN];
-
 void lca_dfs(int now,int fat) {
     _fora(i,1,n) lgb[i]=lgb[i>>1]+1; lgb[1]=0;
     fa[now][0] = fat;

@@ -958,7 +958,7 @@
 		firstnumber=1,
 		numberfirstline=true,
 		% Code
-		tabsize=2,
+		tabsize=4,
 		showspaces=false,
 		showstringspaces=false,
 		showtabs=false,
